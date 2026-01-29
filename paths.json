@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ors-xwalk/:/",
-    "/content/ors-xwalk/configuration:/.helix/config.json",
-    "/content/ors-xwalk/metadata:/metadata.json"
+    "/content/rudi-xwalk/:/",
+    "/content/rudi-xwalk/configuration:/.helix/config.json",
+    "/content/rudi-xwalk/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ors-xwalk/"
+    "/content/rudi-xwalk/"
   ]
 }
